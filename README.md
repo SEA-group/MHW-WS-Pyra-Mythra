@@ -3,7 +3,7 @@
 ======================Presented by SEA group & 狩技======================
 
 角龙盾斧Diablos Tyrannis    &    丝瓜斩斧Terror Tyrannos - HOMURA（Pyra）
-=========================================================================
+
 喷气大剑Wyvern Ignition"impact"&角龙斩斧Axe of Demons   - HIKARI（Mythra）
 
 安装：
